@@ -1,0 +1,1 @@
+Kinectynth.exe Synths/indian_temple.ply
